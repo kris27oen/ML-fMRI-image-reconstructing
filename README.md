@@ -23,4 +23,6 @@ class ReadObject:
   [sample_data(index_list, mode)]:
     returns (N, 425, 425) or (N, 425, 425, 3) ndarray, representing N images.
     The index_list is a list representing the indices of the pictures in the batch. To seperate training batch and validation batch, make two complementary lists and seperately pass them to this function
+
+Note: I wasn't able to mirror the repository from GitLab due to the inactivity of the owner. I was only hoping that anyone who see this repository would check the report validity against any plagarism.
   
